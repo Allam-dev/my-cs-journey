@@ -11,7 +11,7 @@ My journey through [Dr.Mostafa Saad](https://github.com/mostafa-saad) [roadmap](
   - [Dr.Mohamed El Desouki (C++ playlist)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
    
-and then start solve problems I recommend [Eng.Tarek Alabd](https://github.com/TarekAlabd) [Sheet](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+and then start solve problems I recommend [Eng.Tarek Alabd](https://github.com/TarekAlabd) [Sheet](https://www.youtube.com/watch?v=XL1Wdk38gRwk)
   
 the next playlists I watch it because I like it 😊.
 - [Operators in C | Chapter-2 | C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqQV_MzlT8xsPQnsGcMdIo)
